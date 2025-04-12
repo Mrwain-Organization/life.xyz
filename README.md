@@ -35,7 +35,7 @@ Life is fully integrated with the **Pi Network** for community support:
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/life-app.git
+git clone https://github.com/Mrwain-Organization/life.xyz.git
 cd life-app
 ```
 
