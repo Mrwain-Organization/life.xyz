@@ -37,3 +37,23 @@ Life is fully integrated with the **Pi Network** for community support:
 ```bash
 git clone https://github.com/yourusername/life-app.git
 cd life-app
+```
+
+Then open `index.html` in your browser.
+
+---
+
+## 🎯 Roadmap
+
+- [x] MVP launch with health, meal, and budget tools
+- [ ] Pi Wallet donation integration
+- [ ] Add progress tracking charts and goals
+- [ ] Deploy to Vercel or Netlify
+
+---
+
+## 🙏 Support the Project
+
+This app was built to **solve real problems for regular people** and help fund decentralized innovations like **TruthWeb** and **Cloudy**.
+
+Support with Pi, share with friends, or contribute on GitHub 💜
