@@ -1,4 +1,4 @@
-# 🍃 Life – Your All-in-One Daily Wellness App
+# 🍃  SmartSolve – Your All-in-One Daily Wellness App
 
 **Life** is a lightweight, zero-cost, and powerful web app designed to solve daily problems related to **health**, **meals**, **budget**, and **life planning**. Built for regular people and powered by the **Pi Network**, Life helps users stay on track, live better, and support a decentralized future.
 
